@@ -22,3 +22,4 @@ There are three main notebooks:
 1. `scatterPlots.ipynb`: Creates some example data spread randomly along some trend line split into different subsets. Shows some different options and problems for visualizations.
 2. `colorMapNotebook.ipynb`: Makes several types of artifical images and compares different color maps and how specific colormaps may induce artifacts.
 3. `plottingLibraries.ipynb`: A simple notebook which reproduces some plots using different packages to highlight how they are different and what they can include.
+4. `hypatiaPlot.ipynb`: This notebook reads in the data from the Hypatia catalog and gives an example plot. It is meant for people to have access to astronomical data to play around with different plotting styles, etc.
