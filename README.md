@@ -8,10 +8,10 @@ conda create -n scivis python=3.9
 conda activate scivis
 conda install numpy pandas matplotlib seaborn bokeh
 conda install -c plotly plotly=5.7.0
+conda install -c pyviz holoviews
 conda install -c conda-forge cmocean
 conda install "jupyterlab>=3" "ipywidgets>=7.6"
 conda install -c conda-forge -c plotly jupyter-dash
-
 ```
 then, launch your JupyterLab with
 ```bash
